@@ -56,28 +56,6 @@
 
 ---
 
-### 📈 Metrics & GitHub Activity
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Akarsit-Dubey&show_icons=true&theme=nord&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Akarsit's Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akarsit-Dubey&theme=nord&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF" alt="Akarsit's Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsit-Dubey&layout=compact&theme=nord&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akarsit-Dubey&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="49%" />
-</div>
-
----
-
 ### 🌐 Connect & Collaborate
 
 <div align="center">
