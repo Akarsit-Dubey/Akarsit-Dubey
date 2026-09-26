@@ -31,7 +31,7 @@
 ┌──────────────┬────────────────────────┐
 │ Role         │ BCA Undergrad          │
 │ Focus        │ Systems & DSA          │
-│ Preferred OS │ Windows & Linux CLI    │
+│ Preferred OS │ Windows                │
 │ Editor       │ VS Code / Terminal     │
 │ Coffee       │ Inevitable             │
 └──────────────┴────────────────────────┘</code>
