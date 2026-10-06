@@ -1,79 +1,49 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,50:161b22,100:0052cc&height=220&section=header&text=Akarsit%20Dubey&fontSize=42&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer&descFontSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Building+foundations+in+Systems+%26+Software;Exploring+Data+Structures+%26+Algorithms;Fascinated+by+Hardware-Software+Architecture;Welcome+to+my+open-source+hub!" alt="Typing SVG" />
-  </a>
+<img src="./terminal.svg" alt="Akarsit Dubey terminal intro" width="760"/>
 
-  <br />
-  
-  <img src="https://komarev.com/ghpvc/?username=Akarsit-Dubey&label=PROFILE+VIEWS&color=0052cc&style=for-the-badge" alt="Profile Views" />
-</div>
+<br/>
 
-<br />
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 Quick Overview</h3>
-      <p>I am a computer applications undergrad focused on core computer science foundations, low-level architecture, and scalable software design.</p>
-      <ul>
-        <li>🔭 <strong>Currently Mastering:</strong> Procedural Programming (C), Memory Management & Control Structures.</li>
-        <li>🧠 <strong>Deepening Knowledge:</strong> Foundational DSA, Computational Logic, and Computer Networks.</li>
-        <li>⚡ <strong>Interests:</strong> System-level efficiency, hardware optimization, and CLI developer tooling.</li>
-        <li>🎯 <strong>2026 Objective:</strong> Build structured, real-world repositories and contribute to open source.</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h3>⚡ Terminal Info</h3>
-      <pre>
-<code>akarsit@workspace:~$ fetch-info
-┌──────────────┬────────────────────────┐
-│ Role         │ BCA Undergrad          │
-│ Focus        │ Systems & DSA          │
-│ Preferred OS │ Windows                │
-│ Editor       │ VS Code / Terminal     │
-│ Coffee       │ Inevitable             │
-└──────────────┴────────────────────────┘</code>
-      </pre>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💻 Tech Stack & Tooling
-
-<div align="center">
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/> |
-| **Fundamentals** | <img src="https://img.shields.io/badge/Data_Structures-0e1117?style=for-the-badge&logo=diagram-next&logoColor=58a6ff"/> <img src="https://img.shields.io/badge/Computer_Networks-0e1117?style=for-the-badge&logo=cisco&logoColor=58a6ff"/> <img src="https://img.shields.io/badge/PC_Architecture-0e1117?style=for-the-badge&logo=intel&logoColor=58a6ff"/> |
-| **Developer Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"/> |
+<img src="https://komarev.com/ghpvc/?username=Akarsit-Dubey&label=VISITORS&color=0052cc&style=flat-square" alt="Visitors"/>
+<img src="https://img.shields.io/badge/Status-Learning%20in%20public-58a6ff?style=flat-square&labelColor=0d1117" alt="Status"/>
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-3fb950?style=flat-square&labelColor=0d1117" alt="Open to collaboration"/>
 
 </div>
 
----
+<br/>
 
-### 🌐 Connect & Collaborate
+### `// stack`
+
+```text
+ TECH               STATUS
+ ──────────────────────────────────────────
+ C                  ●  mastering
+ DSA                ●  deepening
+ Computer Networks  ◐  exploring
+ Bash · Git         ●  daily driver
+ HTML · CSS         ○  on the side
+ ──────────────────────────────────────────
+ Tools: VS Code · Windows Terminal · GitHub
+```
+
+### `// stats`
 
 <div align="center">
-  <a href="https://linkedin.com/in/Akarsit_Dubey" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:akasit87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Akarsit-Dubey">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=Akarsit-Dubey&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats"/>
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsit-Dubey&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages"/>
+
 </div>
 
-<br />
+### `// contact`
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0052cc,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
+
+<a href="https://linkedin.com/in/Akarsit_Dubey"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:akasit87@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="./grid-snake.svg" alt="Contribution snake" width="100%"/>
+
 </div>
